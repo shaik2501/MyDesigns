@@ -1,5 +1,9 @@
 # Health-a-thon — Design Blueprint and Reusable Build Prompt
 
+## Core public page gallery
+
+The `pages/` folder preserves the stable public experience: `home.png`, `guide.png`, and `register.png`. These cover the landing page, FAQ/guide system, and registration entry without archiving changing participant or submission data.
+
 > Use this document as the visual authority for future healthcare, research, social-impact, or institutional innovation websites inspired by the Health-a-thon design language. Preserve its hierarchy, color roles, spacing, card geometry, image treatment, and responsive behavior while replacing the source branding, copy, and protected assets with original project material.
 
 ## 1. Reference and audit scope

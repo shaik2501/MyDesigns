@@ -1,5 +1,9 @@
 # TechQuest × iQOO Z Series — Design Blueprint and Reusable Build Prompt
 
+## Core public page gallery
+
+The `pages/` folder preserves the stable public experience: `home.png`, `mentors.png`, `privacy.png`, `terms.png`, and `register.png`. The registration route currently redirects to the event login entry, so `register.png` also records the authentication design. Dynamic participant or event data is intentionally excluded.
+
 > Use this file as the visual and interaction authority for future pages inspired by this design language. Adapt the copy, brand, content, and images to the new project; preserve the composition logic, typographic hierarchy, color roles, spacing rhythm, component geometry, and responsive behavior described here.
 
 ## 1. Reference and scope

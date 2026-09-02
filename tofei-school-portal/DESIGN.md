@@ -1,5 +1,9 @@
 # ToFEI School Portal — Design Blueprint and Reusable Build Prompt
 
+## Core public page gallery
+
+The `pages/` folder preserves `home.png` for the public landing experience and `login.png` for the school/official authentication entry screen. Private dashboards and provisioned-account content are intentionally excluded.
+
 > Use this file as the visual authority for future public-service, education, compliance, evidence-submission, or government programme websites inspired by this design language. Preserve its accessibility-first hierarchy, institutional green palette, multilingual typography, evidence-card layout, and responsive behavior while replacing source branding, programme copy, and protected assets with original project material.
 
 ## 1. Reference and audit scope
