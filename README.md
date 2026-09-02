@@ -13,6 +13,7 @@ Each folder represents a different website or visual style. It contains:
 |---|---|---|---|
 | iQOO Hackathon | [Open website](https://techquest.reskilll.com/) | [`DESIGN.md`](iqoo-hackathon/DESIGN.md) | [`iqoo_design_image.png`](iqoo-hackathon/iqoo_design_image.png) |
 | Healthathon | [Open website](https://healthathon.reskilll.com/) | [`DESIGN.md`](healthathon/DESIGN.md) | [`healtha-ton.png`](healthathon/healtha-ton.png) |
+| ToFEI School Portal | [Open website](https://tofei.wedevit.in/) | [`DESIGN.md`](tofei-school-portal/DESIGN.md) | [`tofei-full-page.png`](tofei-school-portal/tofei-full-page.png) |
 
 ## Repository structure
 
@@ -25,6 +26,9 @@ MyDesigns/
 ├── healthathon/
 │   ├── DESIGN.md
 │   └── healtha-ton.png
+├── tofei-school-portal/
+│   ├── DESIGN.md
+│   └── tofei-full-page.png
 └── future-design-name/
     ├── DESIGN.md
     └── reference-image.png
