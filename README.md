@@ -12,6 +12,7 @@ Each folder represents a different website or visual style. It contains:
 | Design | Blueprint | Reference |
 |---|---|---|
 | iQOO Hackathon | [`DESIGN.md`](iqoo-hackathon/DESIGN.md) | [`iqoo_design_image.png`](iqoo-hackathon/iqoo_design_image.png) |
+| Healthathon | [`DESIGN.md`](healthathon/DESIGN.md) | [`healtha-ton.png`](healthathon/healtha-ton.png) |
 
 ## Repository structure
 
@@ -21,6 +22,9 @@ MyDesigns/
 ├── iqoo-hackathon/
 │   ├── DESIGN.md
 │   └── iqoo_design_image.png
+├── healthathon/
+│   ├── DESIGN.md
+│   └── healtha-ton.png
 └── future-design-name/
     ├── DESIGN.md
     └── reference-image.png
