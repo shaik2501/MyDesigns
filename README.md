@@ -9,10 +9,10 @@ Each folder represents a different website or visual style. It contains:
 
 ## Designs
 
-| Design | Blueprint | Reference |
-|---|---|---|
-| iQOO Hackathon | [`DESIGN.md`](iqoo-hackathon/DESIGN.md) | [`iqoo_design_image.png`](iqoo-hackathon/iqoo_design_image.png) |
-| Healthathon | [`DESIGN.md`](healthathon/DESIGN.md) | [`healtha-ton.png`](healthathon/healtha-ton.png) |
+| Design | Source page | Blueprint | Reference |
+|---|---|---|---|
+| iQOO Hackathon | [Open website](https://techquest.reskilll.com/) | [`DESIGN.md`](iqoo-hackathon/DESIGN.md) | [`iqoo_design_image.png`](iqoo-hackathon/iqoo_design_image.png) |
+| Healthathon | [Open website](https://healthathon.reskilll.com/) | [`DESIGN.md`](healthathon/DESIGN.md) | [`healtha-ton.png`](healthathon/healtha-ton.png) |
 
 ## Repository structure
 
