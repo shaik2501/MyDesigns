@@ -17,6 +17,7 @@ Each folder represents a different website or visual style. It contains:
 | ToFEI School Portal | [Open website](https://tofei.wedevit.in/) | [`DESIGN.md`](tofei-school-portal/DESIGN.md) | [`tofei-full-page.png`](tofei-school-portal/tofei-full-page.png) · [`Core pages`](tofei-school-portal/pages/) |
 | MastryHub | [Open website](https://mastryhub.com/) | [`DESIGN.md`](mastryhub/DESIGN.md) | [`mastryhub-full-page.png`](mastryhub/mastryhub-full-page.png) · [`Core pages`](mastryhub/pages/) |
 | fal.ai | [Open website](https://fal.ai/) | [`DESIGN.md`](fal-ai/DESIGN.md) | [`fal-ai-full-page.png`](fal-ai/fal-ai-full-page.png) · [`Core pages`](fal-ai/pages/) |
+| ProtoHub | [Open website](https://protohub.wedevit.in/landing) | [`DESIGN.md`](protohub/DESIGN.md) | [`protohub-full-page.png`](protohub/protohub-full-page.png) · [`Core pages`](protohub/pages/) |
 
 ## Repository structure
 
@@ -51,6 +52,15 @@ MyDesigns/
 │       ├── enterprise.png
 │       ├── about.png
 │       └── login.png
+├── protohub/
+│   ├── DESIGN.md
+│   ├── protohub-full-page.png
+│   └── pages/
+│       ├── landing.png
+│       ├── facilities.png
+│       ├── track.png
+│       ├── login.png
+│       └── register.png
 └── future-design-name/
     ├── DESIGN.md
     └── reference-image.png
