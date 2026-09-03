@@ -16,6 +16,7 @@ Each folder represents a different website or visual style. It contains:
 | Healthathon | [Open website](https://healthathon.reskilll.com/) | [`DESIGN.md`](healthathon/DESIGN.md) | [`healtha-ton.png`](healthathon/healtha-ton.png) · [`Core pages`](healthathon/pages/) |
 | ToFEI School Portal | [Open website](https://tofei.wedevit.in/) | [`DESIGN.md`](tofei-school-portal/DESIGN.md) | [`tofei-full-page.png`](tofei-school-portal/tofei-full-page.png) · [`Core pages`](tofei-school-portal/pages/) |
 | MastryHub | [Open website](https://mastryhub.com/) | [`DESIGN.md`](mastryhub/DESIGN.md) | [`mastryhub-full-page.png`](mastryhub/mastryhub-full-page.png) · [`Core pages`](mastryhub/pages/) |
+| fal.ai | [Open website](https://fal.ai/) | [`DESIGN.md`](fal-ai/DESIGN.md) | [`fal-ai-full-page.png`](fal-ai/fal-ai-full-page.png) · [`Core pages`](fal-ai/pages/) |
 
 ## Repository structure
 
@@ -38,6 +39,17 @@ MyDesigns/
 │       ├── explore.png
 │       ├── events.png
 │       ├── hubs.png
+│       └── login.png
+├── fal-ai/
+│   ├── DESIGN.md
+│   ├── fal-ai-full-page.png
+│   └── pages/
+│       ├── home.png
+│       ├── explore.png
+│       ├── serverless.png
+│       ├── pricing.png
+│       ├── enterprise.png
+│       ├── about.png
 │       └── login.png
 └── future-design-name/
     ├── DESIGN.md
